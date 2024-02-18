@@ -1,3 +1,10 @@
+How to run the website
+1. download from github
+2. unzip the package
+3. navigate to package via cmd
+4. run npm install
+5. run npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
